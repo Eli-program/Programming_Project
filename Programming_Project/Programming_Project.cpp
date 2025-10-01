@@ -16,6 +16,5 @@ int main()
 		cout << "In " << years[ocean] << " years, the water level will have rised by " << heightInc << " mm." << endl;
 
 	}
-
 }
 
